@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rifatmiah/rifat-project/problem-solving-with-cpp/sum'
+relocations:     []
+...
